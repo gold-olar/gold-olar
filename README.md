@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gold-olar/gold-olar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to my page, I am a self taught,money driven, goal achieving, determined guy that enjoys solving problems.
 
@@ -13,4 +11,4 @@ Welcome to my page, I am a self taught,money driven, goal achieving, determined 
 - 📫 How to reach me: twitter: [gold_olar](http://www.twitter.com/gold_olar)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I'm really not a hard guy 😄.
--->
+
