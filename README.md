@@ -12,4 +12,4 @@ Welcome to my page, I am a self taught, goal achieving, determined guy that enjo
 - ⚡ Fun fact: I'm really not a hard guy 😄. I enjoy travelling in groups and trying out new things.
 
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gold-olar&count_private=true&theme=dark&show_icons=true&&line_height=40)
-![Profile views](https://gpvc.arturio.dev/gold-olar)  
+ 
